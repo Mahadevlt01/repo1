@@ -1,4 +1,1 @@
-hi i am mahadev..
-this line is added to araise the conflict..
-
-this is mahadev
+it is an empty file..
