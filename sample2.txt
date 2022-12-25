@@ -1,1 +1,1 @@
-file for comparison 2
+stash in sample2
