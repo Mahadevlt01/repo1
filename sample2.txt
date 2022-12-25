@@ -1,1 +1,1 @@
-stash in sample2
+line 2 stash 2
