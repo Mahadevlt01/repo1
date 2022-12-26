@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-sample2;line1; stash 2
-sample2;line2; check for reset and revert options
-=======
 file for comparison 2
->>>>>>> parent of 27e9051 (stashed 2 files..)
