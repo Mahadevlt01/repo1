@@ -1,1 +1,2 @@
 line 1 stash 1
+line 2 check of reset and revert..

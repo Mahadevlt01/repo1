@@ -1,1 +1,2 @@
-line 2 stash 2
+sample2;line1; stash 2
+sample2;line2; check for reset and revert options
