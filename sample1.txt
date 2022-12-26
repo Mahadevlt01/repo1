@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 line 1 stash 1
 line 2 check of reset and revert..
+=======
+file for comparison 1
+>>>>>>> parent of 27e9051 (stashed 2 files..)
