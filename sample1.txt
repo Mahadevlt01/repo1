@@ -1,3 +1,0 @@
-file for comparison 1
-line added for trigger build in jenkins
-build trigger 2
