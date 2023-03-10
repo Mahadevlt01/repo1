@@ -7,6 +7,11 @@ pipeline {
                 git 'https://github.com/Mahadevlt01/repo1.git'
             }
         }
+        stage("Maven Build"){
+            steps{
+                sh "mvn clean package"
+            }
+        }
     }
 }
 
