@@ -1,0 +1,10 @@
+pipeline {
+    agent any
+    stages {
+        stage("email notify"){
+            steps{
+              emailext body: 'just check it in time whether it is successful or not.. tq', subject: 'updating pipeline project', to: 'mahadevlt01@gmail.com'
+            }
+        }
+    }
+}
