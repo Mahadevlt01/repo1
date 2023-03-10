@@ -1,3 +1,1 @@
-github> line 1
-git> line 2 added by dev
-adding line to check poll scm in jenkins..
+line 4 for gitcheckout thru pipeline script
