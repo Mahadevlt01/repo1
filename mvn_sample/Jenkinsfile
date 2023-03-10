@@ -2,11 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Git Checkout') {
-            steps {
-                git 'https://github.com/Mahadevlt01/repo1/mvn_sample'
-            }
-        }
+        
         stage("Maven Build"){
             steps{
                 sh "mvn package"
