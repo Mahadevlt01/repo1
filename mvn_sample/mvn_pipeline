@@ -3,7 +3,8 @@ pipeline {
     stages {
         stage("MVN build"){
             steps{
-             sh "mvn package"
+            def mvnh = tool name: 'MyMaven', type: 'maven'
+            sh "${mvnh}/bin mvn package"
             }
         }
     }
